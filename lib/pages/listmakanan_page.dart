@@ -34,7 +34,7 @@ class ListMakananPage extends StatelessWidget {
             child:Column(
               crossAxisAlignment:CrossAxisAlignment.start,
               children:[
-                Text(makanan.namaMakanan, style: TextStyle(fontSize: 40, )),
+                Text(makanan.namaMakanan, style: TextStyle(fontSize: 20, )),
                 Text("Rp. "+makanan.hargaMakanan,style: TextStyle(fontSize: 20, color: Colors.blue)),
               ]
             )

@@ -10,18 +10,18 @@ class ListMakananController extends GetxController {
      deskripsiMakanan: "Soto ayam khas dengan kuah bening gurih dan taburan koya",
     ratingMakanan: 4.5, reviewMakanan: "Soto ayam ini sangat enak dan gurih, cocok untuk makan siang"),
 
-    MakananModels(namaMakanan: "Lentog", hargaMakanan: " 25.000", 
+    MakananModels(namaMakanan: "Lentog", hargaMakanan: "25.000", 
     gambarMakanan: "https://tourism.kuduskab.go.id/wp-content/uploads/2024/12/lentog-tanjung-4-1536x1024.jpg",
     deskripsiMakanan: "Lentog khas Kudus dengan kuah santan dan taburan bawang goreng",
     ratingMakanan: 4.0, reviewMakanan: "Lentog ini sangat enak dan gurih, cocok untuk sarapan pagi"),
 
-    MakananModels(namaMakanan: "Pindang Kerbau", hargaMakanan: " 55.000", 
+    MakananModels(namaMakanan: "Pindang Kerbau", hargaMakanan: "55.000", 
     gambarMakanan: "https://disbudpar.kuduskab.go.id/kurmacenter/wp-content/uploads/2022/12/3-2-768x768.jpg",
     deskripsiMakanan: "Pindang daging kerbau berkuah hitam khas rempah kudus",
     ratingMakanan: 4.8, reviewMakanan: "Pindang kerbau ini sangat enak dan gurih, cocok untuk makan malam"),
 
 
-    MakananModels(namaMakanan: "Garang Asem", hargaMakanan: " 15.000", gambarMakanan:"https://nico.co.id/wp-content/uploads/2025/12/garang-asem.jpg",
+    MakananModels(namaMakanan: "Garang Asem", hargaMakanan: "15.000", gambarMakanan:"https://nico.co.id/wp-content/uploads/2025/12/garang-asem.jpg",
     deskripsiMakanan: "Garang asem makanan berkuah bening yang segar dengan daging ayam",
     ratingMakanan: 5.0, reviewMakanan: "Garang asem sangat segar, cocok untuk makan siang"),
 

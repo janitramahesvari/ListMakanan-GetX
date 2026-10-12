@@ -3,6 +3,7 @@ import 'package:firstproject/pages/kalkulator_page1.dart';
 import 'package:firstproject/pages/login_clonepage.dart';
 import 'package:firstproject/routes.dart';
 import 'package:firstproject/pages09/kalkulator_pagee.dart';
+import 'package:firstproject/routes09.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 
@@ -22,8 +23,8 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return GetMaterialApp(
       title: 'My Learning App',
-      initialRoute: Routes.list_makanan,
-      getPages:Routes.myPages,
+      initialRoute: Routes09.list_makanan,
+      getPages:Routes09.myPages,
       theme: ThemeData(
         // This is the theme of your application.
         //
